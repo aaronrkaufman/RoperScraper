@@ -1,1 +1,1 @@
-"# RoperScraper" 
+If you have a valid Roper Center iPoll Database credential, this python script will let you pull down all their data. The R script is to conveniently read in the CSVs and spit them out as an R-friendly file.
